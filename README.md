@@ -1,8 +1,8 @@
-##### ABOUT
+##### CURRENTLY
 
 - Full-Stack Developer
 - Colemak-DH user
-- USB-C enjoyer
+- USB-C enjoyer since 2017
 
 ##### DAILY
 
