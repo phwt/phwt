@@ -12,7 +12,7 @@
   - **Technologies:** React, .NET Core, Azure, Terraform
 - **Device:** MacBook Pro
   - **Mouse:** MX Master 3
-  - **Keyboard:** ID75 | Split layout
+  - **Keyboard:** Sofle v1 + ID75 Split layout
 
 
 ---
