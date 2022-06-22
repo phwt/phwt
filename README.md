@@ -10,9 +10,9 @@
 - **Coding:**
   - **Languages:** `.js`, `.ts`, `.cs`, `.py`
   - **Technologies:** React, .NET Core, Azure, Terraform
-- **Device:** MacBook Pro
+- **Device:** MacBook Pro 13" 2020
   - **Mouse:** MX Master 3
-  - **Keyboard:** Sofle v1 + ID75 Split layout
+  - **Keyboard:** Sofle v1.1
 
 
 ---
