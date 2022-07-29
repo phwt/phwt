@@ -12,7 +12,7 @@
   - **Technologies:** React, .NET Core, Azure, Terraform
 - **Device:** MacBook Pro 13" 2020
   - **Mouse:** MX Master 3
-  - **Keyboard:** Sofle v1.1
+  - **Keyboard:** [Jorne Classic 2.1](https://github.com/joric/jorne)
 
 
 ---
